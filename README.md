@@ -1,3 +1,3 @@
 a collects of games using javascript
 
-[this subtext](tic_tac_toe/README.md) 
+[Tic Tac Toe](tic_tac_toe) 
